@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="starter",
-    version="0.0.0",
-    description="Starter code.",
-    author="Student",
+    name="exercise",
+    version="0.0.1",
+    description="Exercise code.",
+    author="Elmar Maas",
 )
